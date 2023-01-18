@@ -1,0 +1,33 @@
+body {
+    min-height: 4096px;
+    margin: 0;
+    padding: 0;
+}
+
+
+footer {
+    bottom:0;
+    width: 100%;
+    position: fixed;
+    height: 100px;
+}
+
+.bleu {
+    background: rgb(34,193,195);
+}
+
+.rouge {
+    background-color: rgba(253,187,45,1);
+}
+
+.black {
+    background-color: rgba(152,132,167,1);
+}
+
+.orange {
+    background-color: rgba(87,191,159,1);
+}
+
+.vert {
+    background-color: rgba(126,190,132,1);
+}

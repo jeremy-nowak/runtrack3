@@ -10,8 +10,8 @@
 <body>
 
 
-<button type="submit" id="button">button</button>
-<article id="citation">"La vie a beaucoup plus d’imagination que nous”.</article>
+
+<textarea id="keyLogger"></textarea>
     
 </body>
 </html>

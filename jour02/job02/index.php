@@ -11,7 +11,7 @@
 
 
 <button type="submit" id="button">button</button>
-<article id="citation">"La vie a beaucoup plus d’imagination que nous”.</article>
+<article id="citation">“L'important n'est pas la chute, mais l'atterrissage.”</article>
     
 </body>
 </html>
