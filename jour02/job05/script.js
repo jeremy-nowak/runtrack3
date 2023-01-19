@@ -1,4 +1,3 @@
-Javascript : 
 document.addEventListener("DOMContentLoaded", function() {
 
 
