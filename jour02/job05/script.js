@@ -1,4 +1,3 @@
-Javascript : 
 document.addEventListener("DOMContentLoaded", function() {
 
 
@@ -22,7 +21,7 @@ document.addEventListener("DOMContentLoaded", function() {
       bougefooter.className="orange";
     }
 
-    if(y>2000){
+    if(y>2000){ 
       bougefooter.className="vert";
     }
   }
