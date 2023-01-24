@@ -1,0 +1,61 @@
+
+.section{
+    background-color: #88c1d0;
+}
+
+
+@media screen 
+  and (min-width: 1680px){
+    body{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+    .section{
+        background-color: #88c1d0;
+        width: 50px;
+        height: 50px;
+ }
+  }
+
+  @media screen 
+  and (min-width: 768px)
+  and (max-width: 1599px){
+    body{
+
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        justify-items: center;
+        display: grid;
+        grid: repeat(2, 60px) / auto-flow 80px;
+        
+    }
+    .section{
+        background-color: red;
+        width: 50px;
+        height: 50px;
+ }
+  }
+
+
+  @media screen 
+
+  and (max-width: 767px){
+    body{
+
+        display: flex;
+        
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        justify-items: center;
+        
+    }
+    .section{
+        background-color: red;
+        width: 50px;
+        height: 50px;
+ }
+  }
+
